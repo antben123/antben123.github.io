@@ -3,3 +3,19 @@
 * {
  font-family: "Open Sans", Noto Sans, sans-serif; 
 }
+#topnav {
+ padding: 13px 16px;
+ background-color:navy;
+ color:white;
+ 
+}
+#topnav a {
+ text-decoration:none;
+ 
+}
+body {
+ margin:0px;
+}
+#maincontent {
+ margin:12px;
+}
