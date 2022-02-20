@@ -1,3 +1,3 @@
-# Fricked Up Reposititory
+# Ants Bennett website
 
-This repository is hacked LMAOOOOOOO
+This is the Ants Bennett website.
